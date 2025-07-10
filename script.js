@@ -55,3 +55,16 @@ year = 1991;
 console.log(typeof year);
 
 console.log(typeof null)
+
+let isIsland = false;
+let language;
+let country = "United States";
+let continent = "North America";
+let population = "340 Million";
+
+console.log(typeof isIsland);
+console.log(typeof population);
+console.log(typeof country);
+console.log(typeof language);
+
+

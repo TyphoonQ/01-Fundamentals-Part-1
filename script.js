@@ -23,3 +23,11 @@ let job1 = 'programmer';
 let job2 = 'teacher';
 
 console.log(myFirstJob);
+
+let country = "United States";
+let continent = "North America";
+let population = "340 Million";
+
+console.log(country)
+console.log(continent)
+console.log(population)

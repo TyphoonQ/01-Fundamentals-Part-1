@@ -57,7 +57,7 @@ console.log(typeof year);
 console.log(typeof null)
 
 let isIsland = false;
-let language;
+let language = English;
 let country = "United States";
 let continent = "North America";
 let population = "340 Million";
@@ -80,3 +80,8 @@ job = 'teacher'
 
 lastName = 'Quintana';
 console.log(lastName)
+
+language = 'English';
+const country = 'United States';
+const continent = 'North America';
+const isIsland = false;

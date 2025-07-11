@@ -34,7 +34,7 @@ let population = "340 Million";
 console.log(country)
 console.log(continent)
 console.log(population)
-*/
+
 
 let javascriptIsFun = true;
 console.log(javascriptIsFun)
@@ -66,5 +66,17 @@ console.log(typeof isIsland);
 console.log(typeof population);
 console.log(typeof country);
 console.log(typeof language);
+*/
 
+let age = 30;
+age = 31;
 
+const birthYear = 1991;
+// birthYear = 1990
+// const job;
+
+var job = 'programmer'
+job = 'teacher'
+
+lastName = 'Quintana';
+console.log(lastName)

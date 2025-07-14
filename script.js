@@ -191,7 +191,7 @@ const BMIJohn = massJohn / (heightJohn * heightJohn);
 const markHigherBMI = BMIMark > BMIJohn;
 
 console.log(BMIMark, BMIJohn, markHigherBMI);
-*/
+
 
 const firstName = 'Jonas';
 const job = 'teacher';
@@ -213,3 +213,12 @@ console.log('String with \n\
 console.log(`String
       multiple
       lines`);
+      */
+const country = 'United States';
+const continent = 'North America';
+let population = 340;
+let language = 'English';
+
+const description1 = `${country} is in ${continent}, and its ${population} million people speak ${language}. `
+
+console.log(description1);

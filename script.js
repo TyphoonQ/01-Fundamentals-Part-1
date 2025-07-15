@@ -247,3 +247,19 @@ console.log(century)
 // if () {
 // } else {
 // }
+const country = 'United States';
+const continent = 'North America';
+let population = 340;
+let language = 'English';
+
+const description1 = `${country} is in ${continent}, and its ${population} million people speak ${language}. `
+
+console.log(description1);
+
+if (population > 33) {
+    console.log(`${country}'s population is above average`);
+} else {
+    console.log(
+        `${country}'s population is ${33 - population} millions below average`
+    );
+}

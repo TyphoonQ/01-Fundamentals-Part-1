@@ -388,7 +388,7 @@ if (numNeighbours === 1) {
 } else {
     console.log('No borders')
 }
-*/
+
 
 // 24
 
@@ -414,4 +414,11 @@ if (hasDriversLicense && hasGoodVision && !isTired) {
     console.log('Sarah is able to drive!');
 } else {
     console.log('Someone else should drive...');
+}
+    */
+
+if (language === 'english' && population < 50 && !isIsland) {
+    console.log(`You should live in ${country} :)`);
+} else {
+    console.log(`${country} does not meet your criteria :(`);
 }

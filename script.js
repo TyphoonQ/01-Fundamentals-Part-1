@@ -486,7 +486,7 @@ if (day === 'monday') {
 } else if (day === 'saturday' || day === 'sunday') {
     console.log('Enjoy the weekend :D')
 }
-    */
+
 
 const language = 'chinese'
 
@@ -510,3 +510,15 @@ switch (language) {
     default:
         console.log('Great language too :D');
 }
+            */
+// 27
+
+3 + 4
+1991
+true && false && !false
+
+if (23 > 10) {
+    const str = '23 is bigger';
+}
+
+console.log(`I'm ${2037 - 1991} years old.`)

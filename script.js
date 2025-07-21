@@ -522,7 +522,7 @@ if (23 > 10) {
 }
 
 console.log(`I'm ${2037 - 1991} years old.`)
-*/
+
 
 // 28 Conditional Operator
 const age = 23;
@@ -540,4 +540,11 @@ if (age >= 18) {
 console.log(drink2);
 
 console.log(`I like to drink ${age >= 18 ? 'wine' : 'water'}`);
+*/
 
+const population = 340;
+population >= 33 ? console.log('Americas population is above the average') : ('Americas population is below the average')
+
+console.log(
+    `${country}'s population is ${population > 33 ? 'above' : 'below'} average`
+);
